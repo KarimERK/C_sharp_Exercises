@@ -5,7 +5,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        while (true)
+        while (true) // Wrong while condition. is always true.
         {
             int min = 0;
             int max = 10;
